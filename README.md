@@ -2,7 +2,6 @@
 
 this is a database project for the Hacking Project
 
-Done as a group project with François De Saporta, Charles Belpois, Lionel Renard, Geoffroy Visquert
 
 <br> <br>
 
