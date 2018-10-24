@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+this is a database project for the Hacking Project
 
-Things you may want to cover:
+Done as a group project with François De Saporta, Charles Belpois, Lionel Renard, Geoffroy Visquert
 
-* Ruby version
+<br> <br>
 
-* System dependencies
+Several tables : Users, Articles, Category, Comments, Likes.
 
-* Configuration
+<br>
 
-* Database creation
+Each article has 1 user, 1 catergory.
 
-* Database initialization
+Each comment has 1 user, 1 article.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Each Like has 1 user, 1 article.
